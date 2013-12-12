@@ -34,3 +34,7 @@ position and spacing classes should be separate from aesthetics.
 
 large = specific size of the element
 blue = applies coloring to element
+
+
+<h2>Grid Naming Convention</h2>
+container > grid > col- > module
