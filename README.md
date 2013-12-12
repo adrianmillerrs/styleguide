@@ -3,6 +3,9 @@ styleguide
 
 <h2>SASS Style Guide</h2>
 
+
+<h3>Variable Naming</h3>
+
 Naming Convention:
 Underscore for multi word names left_side_bar
 
@@ -36,9 +39,9 @@ large = specific size of the element
 blue = applies coloring to element
 
 
-<h2>Grid Naming Convention</h2>
+<h3>Grid Naming Convention</h3>
 container > grid > col- > module
 
 
-<h2>OBEY THE INCEPTION RULE</h2>
+<h3>OBEY THE INCEPTION RULE</h3>
 <em>Mostly because its clever</em>
