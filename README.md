@@ -1,7 +1,7 @@
 styleguide
 ==========
 
-SASS Style Guide
+<h2>SASS Style Guide</h2>
 
 Underscore for multi word names left_side_bar
 
