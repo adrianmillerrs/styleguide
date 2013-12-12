@@ -38,3 +38,7 @@ blue = applies coloring to element
 
 <h2>Grid Naming Convention</h2>
 container > grid > col- > module
+
+
+<h2>OBEY THE INCEPTION RULE</h2>
+<em>Mostly because its clever</em>
