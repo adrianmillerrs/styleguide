@@ -23,4 +23,4 @@ links > link
 
 position and spacing classes should be separate from aesthetics.
 
-<button class="large blue"></button>
+<code><button class="large blue"></button></code>
